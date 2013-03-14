@@ -1,0 +1,38 @@
+/* @license
+ * MyFonts Webfont Build ID 2482506, 2013-02-17T15:20:22-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Proxima Nova S Black by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-black/
+ * 
+ * Webfont: Proxima Nova A Black by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-black/
+ * 
+ * Webfont: Proxima Nova Black by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/black/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2482506
+ * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/25e14a");
+
+  
+@font-face {font-family: 'ProximaNovaS-Black';src: url('../fonts/25E14A_0_0.eot');src: url('../fonts/25E14A_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/25E14A_0_0.woff') format('woff'),url('../fonts/25E14A_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNovaA-Black';src: url('../fonts/25E14A_1_0.eot');src: url('../fonts/25E14A_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/25E14A_1_0.woff') format('woff'),url('../fonts/25E14A_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ProximaNova-Black';src: url('../fonts/25E14A_2_0.eot');src: url('../fonts/25E14A_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/25E14A_2_0.woff') format('woff'),url('../fonts/25E14A_2_0.ttf') format('truetype');}
+ 

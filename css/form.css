@@ -1,0 +1,317 @@
+/* line 3, ../sass/form.scss */
+body {
+  background-color: #7ec5d7;
+}
+
+/* line 8, ../sass/form.scss */
+.page-header,
+.grid-container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* line 13, ../sass/form.scss */
+.form-page-wrapper {
+  background-color: #fff;
+  max-width: 660px;
+  width: auto;
+  padding: 0 60px;
+  margin: 0 auto;
+}
+
+/* line 21, ../sass/form.scss */
+.share {
+  color: #797e8b;
+  font-family: "Helvetica Neue", Tahoma, sans-serif;
+  font-size: 1.4em;
+  line-height: 2.875em;
+  text-align: right;
+}
+/* line 28, ../sass/form.scss */
+.share a {
+  border-radius: 2.857em;
+  display: inline-block;
+  height: 2.857em;
+  text-indent: -999em;
+  width: 2.857em;
+}
+/* line 35, ../sass/form.scss */
+.share a:hover {
+  text-decoration: none;
+}
+/* line 40, ../sass/form.scss */
+.share .facebook {
+  background: #3b5998 url(../img/facebook.png) no-repeat 50% 50%;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+/* line 46, ../sass/form.scss */
+.share .twitter {
+  background: #96cae8 url(../img/twitter.png) no-repeat 50% 50%;
+}
+
+/* line 51, ../sass/form.scss */
+.images {
+  overflow: hidden;
+  margin-bottom: 4em;
+}
+/* line 55, ../sass/form.scss */
+.images ul {
+  /*width: 660px;*/
+}
+/* line 59, ../sass/form.scss */
+.images li {
+  text-align: center;
+  padding: 5px;
+}
+/* line 64, ../sass/form.scss */
+.images img {
+  border: 1px solid #e5e9ed;
+  padding: 2px;
+}
+/* line 69, ../sass/form.scss */
+.images .caption {
+  color: #a0a7ae;
+  font: italic 1.4em/1.5 "Crete Round", "Helvetica Neue", Tahoma, sans-serif;
+  text-align: right;
+}
+
+/* line 76, ../sass/form.scss */
+.quotes {
+  color: #67727d;
+  font-size: 1.6em;
+  margin-bottom: 4em;
+}
+/* line 81, ../sass/form.scss */
+.quotes p {
+  font-style: italic;
+  margin-bottom: 1em;
+  text-align: center;
+}
+/* line 87, ../sass/form.scss */
+.quotes .author {
+  color: #a0a7ae;
+  font-size: 0.875em;
+}
+/* line 91, ../sass/form.scss */
+.quotes .author strong {
+  color: #334455;
+}
+
+/* line 96, ../sass/form.scss */
+.course hgroup {
+  text-align: center;
+  margin-bottom: 4em;
+}
+/* line 101, ../sass/form.scss */
+.course h2 {
+  color: #7c9095;
+  font-size: 2em;
+  font-style: italic;
+  line-height: 1;
+  text-align: center;
+}
+/* line 109, ../sass/form.scss */
+.course h3 {
+  color: #2a4e58;
+  font-size: 3em;
+  text-align: center;
+  padding-top: -0.4em;
+}
+/* line 116, ../sass/form.scss */
+.course .details {
+  border-bottom: 4px solid #c3cad1;
+  color: #a0a7ae;
+  font-size: 1.4em;
+  font-style: italic;
+  text-align: center;
+}
+/* line 123, ../sass/form.scss */
+.course .details time {
+  color: #cc3f38;
+}
+/* line 128, ../sass/form.scss */
+.course p {
+  color: #67727d;
+  font-size: 1.6em;
+  margin-bottom: 2em;
+}
+/* line 133, ../sass/form.scss */
+.course p strong {
+  color: #334455;
+}
+/* line 136, ../sass/form.scss */
+.course h4 {
+  border-bottom: 2px solid #6bacbd;
+  color: #7ec5d7;
+  font-family: "Oswald", "BigNoodleTitling", "CreteRound", "Helvetica Neue", Tahoma, sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+}
+/* line 144, ../sass/form.scss */
+.course h4 span {
+  display: block;
+  line-height: 2;
+  border-bottom: 2px solid #6bacbd;
+  margin-bottom: 2px;
+}
+
+/* line 153, ../sass/form.scss */
+.simple-table {
+  margin-bottom: 6em;
+}
+/* line 156, ../sass/form.scss */
+.simple-table td {
+  border-bottom: 1px dashed #e1e1e1;
+  font-size: 1.6em;
+  padding: 1.2em 1em;
+}
+/* line 162, ../sass/form.scss */
+.simple-table .time {
+  color: #a0a7ae;
+  font-style: italic;
+  text-align: left;
+  padding-left: 0;
+}
+/* line 169, ../sass/form.scss */
+.simple-table .presenter {
+  color: #67727d;
+}
+
+/* line 175, ../sass/form.scss */
+.sign-up h2 {
+  text-align: center;
+  font-size: 3em;
+}
+/* line 179, ../sass/form.scss */
+.sign-up h2 .price {
+  color: #8dca75;
+  font-size: 1.333em;
+}
+/* line 185, ../sass/form.scss */
+.sign-up header {
+  text-align: center;
+  margin-bottom: 5em;
+}
+/* line 190, ../sass/form.scss */
+.sign-up .promo {
+  border-bottom: 4px solid #e9dad9;
+  color: #8a221d;
+  font-size: 1.4em;
+  font-style: italic;
+}
+
+/* line 198, ../sass/form.scss */
+.page-footer {
+  margin-left: -60px;
+  padding-left: 60px;
+  margin-right: -60px;
+  padding-right: 60px;
+}
+
+/* line 205, ../sass/form.scss */
+.dotted-line {
+  margin-left: -40px;
+  padding-left: 40px;
+  margin-right: -40px;
+  padding-right: 40px;
+}
+
+/* line 212, ../sass/form.scss */
+.white .dotted-line::before {
+  background-image: url(../img/half-scissors.png);
+  left: -41px;
+}
+
+/* line 217, ../sass/form.scss */
+.white .dotted-line.to-right::before {
+  background-image: url(../img/half-scissors-right.png);
+  left: auto;
+  right: -41px;
+}
+
+@media screen and (max-width: 1025px) and (min-width: 767px) {
+  /* line 227, ../sass/form.scss */
+  .dotted-line::before {
+    display: none;
+  }
+}
+@media screen and (max-width: 767px) {
+  /* line 231, ../sass/form.scss */
+  body {
+    background-color: transparent;
+  }
+
+  /* line 233, ../sass/form.scss */
+  .dotted-line {
+    height: 4px;
+  }
+
+  /* line 234, ../sass/form.scss */
+  .dotted-line::before {
+    display: none;
+  }
+
+  /* line 236, ../sass/form.scss */
+  .form-page-wrapper {
+    padding: 0 10px;
+  }
+
+  /* line 240, ../sass/form.scss */
+  .page-head h1 {
+    border: 0;
+    margin-bottom: 0;
+  }
+
+  /* line 241, ../sass/form.scss */
+  .page-head h1 a {
+    margin-bottom: 0;
+  }
+
+  /* line 243, ../sass/form.scss */
+  .images .caption {
+    text-align: center;
+  }
+
+  /* line 247, ../sass/form.scss */
+  .quotes {
+    margin-bottom: 2em;
+  }
+
+  /* line 248, ../sass/form.scss */
+  .quotes blockquote {
+    margin-bottom: 1em;
+  }
+
+  /* line 252, ../sass/form.scss */
+  .course p {
+    text-align: center;
+  }
+
+  /* line 256, ../sass/form.scss */
+  .course h4 {
+    text-align: center;
+  }
+
+  /* line 258, ../sass/form.scss */
+  .sign-up h2 {
+    font-size: 2em;
+    line-height: 1.2;
+  }
+
+  /* line 259, ../sass/form.scss */
+  .sign-up h2 .only {
+    display: block;
+  }
+
+  /* line 260, ../sass/form.scss */
+  .sign-up .promo {
+    border: 0;
+  }
+
+  /* line 262, ../sass/form.scss */
+  .register button {
+    margin-bottom: 0;
+  }
+}
