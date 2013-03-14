@@ -3137,6 +3137,11 @@ h3.subtitle {
     padding: 0.5em 0;
     text-indent: -999em;
   }
+
+
+  .fancy-table {
+    font-size: .8em;
+  }
 }
 /* Tablet and mobile */
 @media screen and (max-width: 1025px) {
