@@ -2801,7 +2801,7 @@ h3.subtitle {
 /* line 650, ../sass/main.scss */
 .clients .client-list {
   overflow: hidden;
-  width: 2000px;
+  width: 100%;
 }
 /* line 654, ../sass/main.scss */
 .clients .client-list li {
