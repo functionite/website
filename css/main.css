@@ -2535,6 +2535,14 @@ h3.subtitle {
   color: #67727d;
 }
 
+.education .text p a {
+    border-bottom: 1px solid #334455;
+}
+
+.education .text p a:hover {
+    text-decoration: none;
+}
+
 .education strong {
   color: #334455;
 }
