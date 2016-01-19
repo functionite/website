@@ -2387,6 +2387,51 @@ h3.subtitle {
   margin-top: -6px;
 }
 
+.our-offer .client-testimonials {
+  margin-bottom: 100px;
+}
+
+.client-testimonials .testimonial {
+  display: flex;
+  flex-basis: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.client-testimonials .testimonial:nth-child(odd) {
+  flex-direction: row-reverse;
+}
+
+.client-testimonials .testimonial:nth-child(odd) .opinion {
+  padding-left: 0;
+  padding-right: 30px;
+}
+
+.client-testimonials .testimonial:nth-child(odd) .author {
+  text-align: right;
+}
+
+.client-testimonials .testimonial:last-child {
+  margin-bottom: 0;
+}
+
+.client-testimonials .testimonial img {
+  max-width: 100px;
+  border-radius: 50%;
+}
+
+.client-testimonials .testimonial .opinion {
+  font-size: 2em;
+  padding-left: 30px;
+  flex-basis: 60%;
+}
+
+.client-testimonials .testimonial .author {
+  color: white;
+  display: block;
+  margin-top: 10px;
+}
 
 .topics h3, .code-sample h3 {
   color: #fff;
@@ -2934,7 +2979,25 @@ h3.subtitle {
     padding-top: 4em;
   }
 
-  
+  .client-testimonials .testimonial {
+    display: block;
+    text-align: center;
+  }
+
+  .client-testimonials .testimonial img {
+    margin: auto;
+    margin-bottom: 10px;
+  }
+
+  .client-testimonials .testimonial .opinion {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .client-testimonials .testimonial:nth-child(odd) .author {
+    text-align: center;
+  }
+
   .community-red {
     padding-bottom: 8em;
   }
