@@ -2992,6 +2992,8 @@ h3.subtitle {
   .client-testimonials .testimonial .opinion {
     padding-left: 0;
     padding-right: 0;
+    width: 100%;
+    font-size: 1.6em;
   }
 
   .client-testimonials .testimonial:nth-child(odd) .author {
