@@ -2136,7 +2136,7 @@ a:hover {
 }
 
 .text p {
-  font-size: 1.6em;
+  font-size: 1.8em;
   margin-bottom: 2em;
 }
 
@@ -2432,6 +2432,24 @@ h3.subtitle {
   color: white;
   display: block;
   margin-top: 10px;
+}
+
+.founder-footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.founder-footer img {
+  max-width: 84px;
+  flex-basis: 84px;
+  margin-right: 15px;
+  border-radius: 50%;
+}
+
+.founder-footer p {
+  margin-bottom: 0;
+  color: white;
 }
 
 .topics h3, .code-sample h3 {
