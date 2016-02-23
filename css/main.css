@@ -2452,6 +2452,11 @@ h3.subtitle {
   color: white;
 }
 
+.founder-footer small {
+  display: block;
+  line-height: 0.8em;
+}
+
 .topics h3, .code-sample h3 {
   color: #fff;
   font-family: "Oswald", "BigNoodleTitling", "CreteRound", "Helvetica Neue", Tahoma, sans-serif;
@@ -2996,6 +3001,10 @@ h3.subtitle {
   
   .our-offer, .education, .contact-wrapper, .community-red, .clients-wrapper {
     padding-top: 4em;
+  }
+
+  .founder-footer {
+    justify-content: flex-start;
   }
 
   .client-testimonials .testimonial {
